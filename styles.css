@@ -2,12 +2,13 @@ h1 {
     color: green;
 
 
-    height: 1100px;
+    height: 300px;
     width: 1000px;
     background: red;
 
 }
 
 button {
+    color: green;
     background: black;
 }
